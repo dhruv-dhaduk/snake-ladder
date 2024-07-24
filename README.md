@@ -6,5 +6,6 @@ Run :\
 npm install\
 npm run dev
 
-GitHub repo link [https://github.com/dhruv-dhaduk/snake-ladder](https://github.com/dhruv-dhaduk/snake-ladder)
+GitHub repo link [https://github.com/dhruv-dhaduk/snake-ladder](https://github.com/dhruv-dhaduk/snake-ladder)\
+Show live site [https://snake-ladder-dhruv.netlify.app/](https://snake-ladder-dhruv.netlify.app/)
 
