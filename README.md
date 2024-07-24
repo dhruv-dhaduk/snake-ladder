@@ -6,3 +6,5 @@ Run :\
 npm install\
 npm run dev
 
+GitHub repo link [https://github.com/dhruv-dhaduk/snake-ladder](https://github.com/dhruv-dhaduk/snake-ladder)
+
